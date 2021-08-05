@@ -1,4 +1,5 @@
 # Neural Processing Unit Study
+This is a repository of the Neural Processing Unit study.
 
 ## Paper List
 |Paper Name|Conference/Jounr Name|Year|
