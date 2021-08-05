@@ -1,5 +1,4 @@
 # NPU_study
-##with Constant
 |Paper Name|Conference/Jounr Name|Year|
 |------|---------------|---|
 |Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks|https://ieeexplore.ieee.org/document/7738524|2016|
